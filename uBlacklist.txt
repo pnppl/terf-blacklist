@@ -68,7 +68,7 @@ homepage: https://github.com/pnppl/terf-blacklist/
 *://*.harrypotter.com/*
 *://*.heritage.org/*
 *://*.hollylawford-smith.org/*
-host $= "medium.com" & path *= "jesse.singal"
+host $= "medium.com"i & path *= "jesse.singal"i
 host $= "substack.com"i & path *= "@abigailshrier"i
 host $= "substack.com"i & path *= "@blockedandreported"i
 host $= "substack.com"i & path *= "@genspect"i
@@ -135,7 +135,7 @@ host *= "instagram"i & path *= "stellaomalley"i
 host *= "instagram"i & path *= "thefreepress"i
 host *= "kiwifarms"i
 host *= "lolcow"i
-host ^= "podcasts.apple" & path *= "quillette-podcast"i
+host ^= "podcasts.apple"i & path *= "quillette-podcast"i
 host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
 host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
 host *= "tumblr"i & path *= "4thwavenow"i
