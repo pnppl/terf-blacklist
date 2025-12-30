@@ -152,6 +152,7 @@ host *= "lolcow"i
 *://blockedandreported.substack.com/*
 *://genspect.substack.com/*
 *://grahamlinehan.substack.com/*
+host $= "medium.com"i & path *= "@jesse.singal"i
 host $= "substack.com"i & path *= "@abigailshrier"i
 host $= "substack.com"i & path *= "@blockedandreported"i
 host $= "substack.com"i & path *= "@genspect"i
@@ -181,6 +182,7 @@ host $= "twitter.com"i & path *= "stellaomalley3"i
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B083KH37J9"
+host *= "amazon"i & path *= "blocked-and-reported"
 host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
 host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
 host *= "dailymotion"i & path *= "4thwavenow"i
@@ -214,10 +216,12 @@ host *= "instagram"i & path *= "reduxx.mag"i
 host *= "instagram"i & path *= "sexmattersorg"i
 host *= "instagram"i & path *= "stellaomalley"i
 host *= "instagram"i & path *= "thefreepress"i
+host ^= "podcasts.apple" & path *= "blocked-and-reported"i
 host ^= "podcasts.apple" & path *= "quillette-podcast"i
 host ^= "podcasts.apple" & path *= "the-matt-walsh-show"i
 host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
 host *= "spotify"i & path *= "1LeIhhawEPWj4uVLQV8Lkd"
+host *= "spotify"i & path *= "4vgbwrNPxor56PDfRMPzhE"
 host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
 host *= "tumblr"i & path *= "4thwavenow"i
 host *= "youtube"i & path *= "@Genspect"i

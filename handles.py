@@ -16,7 +16,7 @@ with open(sys.argv[1], newline='\n') as input:
 				if site == 'in':
 					print(f'host *= "instagram"i & path *= "{handle}"i')
 				if site == 'me':
-					print(f'host $= "medium.com"i & path *= "{handle}"i')
+					print(f'host $= "medium.com"i & path *= "@{handle}"i')
 				if site == 'sp':
 					print(f'host *= "spotify"i & path *= "{handle}"')
 				if site == 'su':
