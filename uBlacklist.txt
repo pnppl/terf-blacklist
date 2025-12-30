@@ -107,19 +107,6 @@ host $= "twitter.com"i & path *= "stellaomalley3"i
 *://*.x.com/segm_ebm*
 *://*.x.com/sexmattersorg*
 *://*.x.com/stellaomalley3*
-*://*.x.com/AbigailShrier*
-*://*.x.com/docstockk*
-*://*.x.com/genspect*
-*://*.x.com/glinner*
-*://*.x.com/jessesingal*
-*://*.x.com/JK_rowling*
-*://*.x.com/libsoftiktok*
-*://*.x.com/MumsnetTowers*
-*://*.x.com/project_lesbian*
-*://*.x.com/Quillette*
-*://*.x.com/segm_ebm*
-*://*.x.com/sexmattersorg*
-*://*.x.com/stellaomalley3*
 host *= "amazon"i & path *= "author/B083KH37J9"
 host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
 host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
