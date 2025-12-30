@@ -12,4 +12,4 @@ Obviously, there are edge cases. There is a lot of transphobia in the world, mos
 
 [Click-to-subscribe](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpnppl%2Fterf-blacklist%2Frefs%2Fheads%2Fmaster%2FuBlacklist.txt)
 
-*PRs welcome.* I would especially appreciate help from cis allies since this can be emotionally draining. Specifically, a big help would be adding screen names for the domains like Substack that we can't nuke. It's particularly helpful to focus on content that is intended to trigger trans people's dysphoria and content that masquerades as liberal, especially when it's pseudofeminist or queer-oriented and prominent in search results.
+**PRs welcome.** I would especially appreciate help from cis allies since this can be emotionally draining. Specifically, a big help would be adding screen names for the domains like Substack that we can't nuke. It's particularly helpful to focus on content that is intended to trigger trans people's dysphoria and content that masquerades as liberal, especially when it's pseudofeminist or queer-oriented and prominent in search results.
