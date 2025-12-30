@@ -32,3 +32,4 @@ with open(sys.argv[1], newline='\n') as input:
 #				several mediocre news orgs use the same url pattern for author pages. we really want to block the *articles*, but anyway
 				if site == 'news':
 					print(f'path *= "author/{handle}"i')
+					print(f'path *= "authors/{handle}"i')
