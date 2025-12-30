@@ -7,7 +7,7 @@ Focus on content that is prominent in search results and falls into one of these
 
 # Nuke-able sites
 
-This is the easiest way to contribute. **This is only for sites with approximately zero value.**
+This is the easiest way to contribute. **This is only for sites with approximately zero value,** like the homepages of hate groups and right-wing propaganda sites.
 
 - Install the plugin from <https://ublacklist.github.io/>.
 - Open the plugin's settings:
