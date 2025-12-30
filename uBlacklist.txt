@@ -93,20 +93,33 @@ host $= "twitter.com"i & path *= "Quillette"i
 host $= "twitter.com"i & path *= "segm_ebm"i
 host $= "twitter.com"i & path *= "sexmattersorg"i
 host $= "twitter.com"i & path *= "stellaomalley3"i
-host $= "x.com"i & path *= "4th_WaveNow"i
-host $= "x.com"i & path *= "AbigailShrier"i
-host $= "x.com"i & path *= "docstockk"i
-host $= "x.com"i & path *= "genspect"i
-host $= "x.com"i & path *= "glinner"i
-host $= "x.com"i & path *= "jessesingal"i
-host $= "x.com"i & path *= "JK_rowling"i
-host $= "x.com"i & path *= "libsoftiktok"i
-host $= "x.com"i & path *= "MumsnetTowers"i
-host $= "x.com"i & path *= "project_lesbian"i
-host $= "x.com"i & path *= "Quillette"i
-host $= "x.com"i & path *= "segm_ebm"i
-host $= "x.com"i & path *= "sexmattersorg"i
-host $= "x.com"i & path *= "stellaomalley3"i
+*://*.x.com/4th_WaveNow*
+*://*.x.com/AbigailShrier*
+*://*.x.com/docstockk*
+*://*.x.com/genspect*
+*://*.x.com/glinner*
+*://*.x.com/jessesingal*
+*://*.x.com/JK_rowling*
+*://*.x.com/libsoftiktok*
+*://*.x.com/MumsnetTowers*
+*://*.x.com/project_lesbian*
+*://*.x.com/Quillette*
+*://*.x.com/segm_ebm*
+*://*.x.com/sexmattersorg*
+*://*.x.com/stellaomalley3*
+*://*.x.com/AbigailShrier*
+*://*.x.com/docstockk*
+*://*.x.com/genspect*
+*://*.x.com/glinner*
+*://*.x.com/jessesingal*
+*://*.x.com/JK_rowling*
+*://*.x.com/libsoftiktok*
+*://*.x.com/MumsnetTowers*
+*://*.x.com/project_lesbian*
+*://*.x.com/Quillette*
+*://*.x.com/segm_ebm*
+*://*.x.com/sexmattersorg*
+*://*.x.com/stellaomalley3*
 host *= "amazon"i & path *= "author/B083KH37J9"
 host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
 host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
