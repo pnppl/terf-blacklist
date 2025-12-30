@@ -4,10 +4,11 @@ description: uBlacklist rules to remove anti-trans search results
 homepage: https://github.com/pnppl/terf-blacklist/
 ---
 
+
+# URLS
 *://*.4thwavenow.com/*
 *://4thwavenow.wordpress.com/*
 *://*.abigailshrier.com/*
-*://abigailshrier.substack.com/*
 *://*.acpeds.org/*
 *://*.adfinternational.org/*
 *://*.adflegal.org/*
@@ -21,7 +22,6 @@ homepage: https://github.com/pnppl/terf-blacklist/
 *://*.battleofideas.org.uk/*
 *://*.beyondtrans.org/*
 *://*.blockedandreported.org/*
-*://blockedandreported.substack.com/*
 *://*.broadview.news/*
 *://*.californiafamily.org/*
 *://*.care.org.uk/*
@@ -60,93 +60,19 @@ homepage: https://github.com/pnppl/terf-blacklist/
 *://*.gendercriticalwoman.blog/*
 *://*.genderreport.ca/*
 *://*.genspect.org/*
-*://genspect.substack.com/*
 *://*.godhatesfags.com/*
-*://grahamlinehan.substack.com/*
 *://*.grokipedia.com/*
 *://*.happinesshypothesis.com/*
 *://*.harrypotter.com/*
 *://*.heritage.org/*
 *://*.hollylawford-smith.org/*
-host $= "medium.com"i & path *= "jesse.singal"i
-host $= "substack.com"i & path *= "@abigailshrier"i
-host $= "substack.com"i & path *= "@blockedandreported"i
-host $= "substack.com"i & path *= "@genspect"i
-host $= "substack.com"i & path *= "@grahamlinehan"i
-host $= "substack.com"i & path *= "@jessesingal"i
-host $= "substack.com"i & path *= "@kathleenstock"i
-host $= "substack.com"i & path *= "@ovarit"i
-host $= "substack.com"i & path *= "@quillette"i
-host $= "substack.com"i & path *= "@stellaomalley"i
-host $= "substack.com"i & path *= "@triggernometry"i
-host $= "twitter.com"i & path *= "4th_WaveNow"i
-host $= "twitter.com"i & path *= "AbigailShrier"i
-host $= "twitter.com"i & path *= "docstockk"i
-host $= "twitter.com"i & path *= "genspect"i
-host $= "twitter.com"i & path *= "glinner"i
-host $= "twitter.com"i & path *= "jessesingal"i
-host $= "twitter.com"i & path *= "JK_rowling"i
-host $= "twitter.com"i & path *= "libsoftiktok"i
-host $= "twitter.com"i & path *= "MattWalshBlog"i
-host $= "twitter.com"i & path *= "MumsnetTowers"i
-host $= "twitter.com"i & path *= "project_lesbian"i
-host $= "twitter.com"i & path *= "Quillette"i
-host $= "twitter.com"i & path *= "segm_ebm"i
-host $= "twitter.com"i & path *= "sexmattersorg"i
-host $= "twitter.com"i & path *= "stellaomalley3"i
-host *= "amazon"i & path *= "author/B01N1NU871"
-host *= "amazon"i & path *= "author/B083KH37J9"
-host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
-host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
-host *= "dailymotion"i & path *= "4thwavenow"i
-host *= "dailymotion"i & path *= "Mumsnet"i
-host *= "facebook"i & path *= "freethoughtlives"i
-host *= "facebook"i & path *= "Genspect"i
-host *= "facebook"i & path *= "jesse.singal.3"i
-host *= "facebook"i & path *= "JKRowling"i
-host *= "facebook"i & path *= "libsoftiktok"i
-host *= "facebook"i & path *= "MattWalshBlog"i
-host *= "facebook"i & path *= "mrmattwalshofficial"i
-host *= "facebook"i & path *= "mumsnet"i
-host *= "facebook"i & path *= "projectlesph"i
-host *= "facebook"i & path *= "sexmattersorg"i
-host *= "facebook"i & path *= "stellaomalley"i
-host *= "instagram"i & path *= "amcgregormd"i
-host *= "instagram"i & path *= "genspectinternational"i
-host *= "instagram"i & path *= "glinner"i
-host *= "instagram"i & path *= "jesse.singal"i
-host *= "instagram"i & path *= "jkrowlingweb"i
-host *= "instagram"i & path *= "libsoftiktok"i
-host *= "instagram"i & path *= "mattwalshblog"i
-host *= "instagram"i & path *= "mrmattwalsh"i
-host *= "instagram"i & path *= "mumsnet"i
-host *= "instagram"i & path *= "quillette"i
-host *= "instagram"i & path *= "reduxx.mag"i
-host *= "instagram"i & path *= "sexmattersorg"i
-host *= "instagram"i & path *= "stellaomalley"i
-host *= "instagram"i & path *= "thefreepress"i
 host *= "kiwifarms"i
 host *= "lolcow"i
-host ^= "podcasts.apple"i & path *= "quillette-podcast"i
-host ^= "podcasts.apple" & path *= "the-matt-walsh-show"i
-host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
-host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
-host *= "tumblr"i & path *= "4thwavenow"i
-host *= "youtube"i & path *= "@Genspect"i
-host *= "youtube"i & path *= "libsoftiktok"i
-host *= "youtube"i & path *= "@MattWalsh"i
-host *= "youtube"i & path *= "mumsnet"i
-host *= "youtube"i & path *= "@Quillette"i
-host *= "youtube"i & path *= "@segm_ebm"i
-host *= "youtube"i & path *= "@sexmattersorg"i
-host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
 *://*.independentwomen.com/*
 *://*.iwvoice.com/*
 *://*.jessesingal.com/*
-*://jessesingal.substack.com/*
 *://*.jkrowling.com/*
 *://*.jonathanhaidt.com/*
-*://kathleenstock.substack.com/*
 *://*.lc.org/*
 *://*.lgballiance.org.uk/*
 *://*.lgbausa.org/*
@@ -169,14 +95,12 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
 *://*.ohiocathconf.org/*
 *://*.opentherapyinstitute.org/*
 *://*.ovarit.com/*
-*://ovarit.substack.com/*
 *://*.pafamily.org/*
 *://*.parler.com/*
 *://*.peaktrans.org/*
 *://*.podchaser.com/podcasts/quillette-podcast-753680
 *://*.prageru.com/*
 *://*.quillette.com/*
-*://quillette.substack.com/*
 *://*.rdrama.net/*
 *://*.reddit.com/r/ask_detransition/*
 *://*.reddit.com/r/BlockedAndReported/*
@@ -194,7 +118,6 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
 *://*.sex-matters.org/*
 *://*.sheila-jeffreys.com/*
 *://*.stellaomalley.com/*
-*://stellaomalley.substack.com/*
 *://*.takimag.com/*
 *://*.terfisaslur.com/*
 *://*.thecoddling.com/*
@@ -212,7 +135,6 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
 *://*.tpusa.com/*
 *://*.transgendertrend.com/*
 *://*.trans.so/*
-*://triggernometry.substack.com/*
 *://*.triggerpod.co.uk/*
 *://*.truthsocial.com/*
 *://*.unherd.com/*
@@ -223,19 +145,110 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
 *://*.womensdeclaration.com/*
 *://*.womensdeclarationusa.com/*
 *://*.womensliberationfront.org/*
+*://*.youthtranscriticalprofessionals.org/*
+
+# handles
+*://abigailshrier.substack.com/*
+*://blockedandreported.substack.com/*
+*://genspect.substack.com/*
+*://grahamlinehan.substack.com/*
+host $= "substack.com"i & path *= "@abigailshrier"i
+host $= "substack.com"i & path *= "@blockedandreported"i
+host $= "substack.com"i & path *= "@genspect"i
+host $= "substack.com"i & path *= "@grahamlinehan"i
+host $= "substack.com"i & path *= "@jessesingal"i
+host $= "substack.com"i & path *= "@kathleenstock"i
+host $= "substack.com"i & path *= "@ovarit"i
+host $= "substack.com"i & path *= "@quillette"i
+host $= "substack.com"i & path *= "@stellaomalley"i
+host $= "substack.com"i & path *= "@triggernometry"i
+host $= "twitter.com"i & path *= "4th_WaveNow"i
+host $= "twitter.com"i & path *= "AbigailShrier"i
+host $= "twitter.com"i & path *= "AbigailShrier"i
+host $= "twitter.com"i & path *= "docstockk"i
+host $= "twitter.com"i & path *= "genspect"i
+host $= "twitter.com"i & path *= "glinner"i
+host $= "twitter.com"i & path *= "jessesingal"i
+host $= "twitter.com"i & path *= "JK_rowling"i
+host $= "twitter.com"i & path *= "libsoftiktok"i
+host $= "twitter.com"i & path *= "MattWalshBlog"i
+host $= "twitter.com"i & path *= "MattWalshBlog"i
+host $= "twitter.com"i & path *= "MumsnetTowers"i
+host $= "twitter.com"i & path *= "project_lesbian"i
+host $= "twitter.com"i & path *= "Quillette"i
+host $= "twitter.com"i & path *= "segm_ebm"i
+host $= "twitter.com"i & path *= "sexmattersorg"i
+host $= "twitter.com"i & path *= "stellaomalley3"i
+host *= "amazon"i & path *= "author/B01N1NU871"
+host *= "amazon"i & path *= "author/B01N1NU871"
+host *= "amazon"i & path *= "author/B083KH37J9"
+host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
+host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
+host *= "dailymotion"i & path *= "4thwavenow"i
+host *= "dailymotion"i & path *= "Mumsnet"i
+host *= "facebook"i & path *= "freethoughtlives"i
+host *= "facebook"i & path *= "Genspect"i
+host *= "facebook"i & path *= "jesse.singal.3"i
+host *= "facebook"i & path *= "JKRowling"i
+host *= "facebook"i & path *= "libsoftiktok"i
+host *= "facebook"i & path *= "MattWalshBlog"i
+host *= "facebook"i & path *= "MattWalshBlog"i
+host *= "facebook"i & path *= "mrmattwalshofficial"i
+host *= "facebook"i & path *= "mrmattwalshofficial"i
+host *= "facebook"i & path *= "mumsnet"i
+host *= "facebook"i & path *= "projectlesph"i
+host *= "facebook"i & path *= "sexmattersorg"i
+host *= "facebook"i & path *= "stellaomalley"i
+host *= "instagram"i & path *= "amcgregormd"i
+host *= "instagram"i & path *= "genspectinternational"i
+host *= "instagram"i & path *= "glinner"i
+host *= "instagram"i & path *= "jesse.singal"i
+host *= "instagram"i & path *= "jkrowlingweb"i
+host *= "instagram"i & path *= "libsoftiktok"i
+host *= "instagram"i & path *= "mattwalshblog"i
+host *= "instagram"i & path *= "mattwalshblog"i
+host *= "instagram"i & path *= "mrmattwalsh"i
+host *= "instagram"i & path *= "mrmattwalsh"i
+host *= "instagram"i & path *= "mumsnet"i
+host *= "instagram"i & path *= "quillette"i
+host *= "instagram"i & path *= "reduxx.mag"i
+host *= "instagram"i & path *= "sexmattersorg"i
+host *= "instagram"i & path *= "stellaomalley"i
+host *= "instagram"i & path *= "thefreepress"i
+host ^= "podcasts.apple" & path *= "quillette-podcast"i
+host ^= "podcasts.apple" & path *= "the-matt-walsh-show"i
+host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
+host *= "spotify"i & path *= "1LeIhhawEPWj4uVLQV8Lkd"
+host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
+host *= "tumblr" & path *= "4thwavenow"i
+host *= "youtube"i & path *= "@Genspect"i
+host *= "youtube"i & path *= "libsoftiktok"i
+host *= "youtube"i & path *= "@MattWalsh"i
+host *= "youtube"i & path *= "mumsnet"i
+host *= "youtube"i & path *= "@Quillette"i
+host *= "youtube"i & path *= "@segm_ebm"i
+host *= "youtube"i & path *= "@sexmattersorg"i
+host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"i
+*://jessesingal.substack.com/*
+*://kathleenstock.substack.com/*
+*://ovarit.substack.com/*
+*://quillette.substack.com/*
+*://stellaomalley.substack.com/*
+*://triggernometry.substack.com/*
 *://*.x.com/4th_WaveNow*
 *://*.x.com/AbigailShrier*
-*://*.x.com/Docstockk*
+*://*.x.com/AbigailShrier*
+*://*.x.com/docstockk*
 *://*.x.com/genspect*
 *://*.x.com/glinner*
 *://*.x.com/jessesingal*
-*://*.x.com/jk_rowling*
+*://*.x.com/JK_rowling*
 *://*.x.com/libsoftiktok*
+*://*.x.com/MattWalshBlog*
 *://*.x.com/MattWalshBlog*
 *://*.x.com/MumsnetTowers*
 *://*.x.com/project_lesbian*
 *://*.x.com/Quillette*
 *://*.x.com/segm_ebm*
-*://*.x.com/SexMattersOrg*
+*://*.x.com/sexmattersorg*
 *://*.x.com/stellaomalley3*
-*://*.youthtranscriticalprofessionals.org/*
