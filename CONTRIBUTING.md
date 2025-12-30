@@ -3,7 +3,7 @@
 **Anyone** can help with this!
 
 Focus on content that is prominent in search results and falls into one of these categories:
-- It's intended to trigger trans people's dysphoria, hurt their feelings, or encourage them to detransition.
+- It's intended to trigger trans people's dysphoria, hurt their feelings, or encourage them to detransition or commit suicide.
 - It pretends to be liberal, reasonable, or present both sides of an argument. For example, "a balanced take on the trans debate", transphobic academics, and bestselling anti-trans books.
 - It's "feminist" or aimed at queer people.
 
