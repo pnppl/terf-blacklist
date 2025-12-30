@@ -165,19 +165,18 @@ host $= "substack.com"i & path *= "@triggernometry"i
 host $= "twitter.com"i & path *= "4th_WaveNow"i
 host $= "twitter.com"i & path *= "AbigailShrier"i
 host $= "twitter.com"i & path *= "AbigailShrier"i
-host $= "twitter.com"i & path *= "docstockk"i
+host $= "twitter.com"i & path *= "Docstockk"i
 host $= "twitter.com"i & path *= "genspect"i
 host $= "twitter.com"i & path *= "glinner"i
 host $= "twitter.com"i & path *= "jessesingal"i
-host $= "twitter.com"i & path *= "JK_rowling"i
+host $= "twitter.com"i & path *= "jk_rowling"i
 host $= "twitter.com"i & path *= "libsoftiktok"i
-host $= "twitter.com"i & path *= "MattWalshBlog"i
 host $= "twitter.com"i & path *= "MattWalshBlog"i
 host $= "twitter.com"i & path *= "MumsnetTowers"i
 host $= "twitter.com"i & path *= "project_lesbian"i
 host $= "twitter.com"i & path *= "Quillette"i
 host $= "twitter.com"i & path *= "segm_ebm"i
-host $= "twitter.com"i & path *= "sexmattersorg"i
+host $= "twitter.com"i & path *= "SexMattersOrg"i
 host $= "twitter.com"i & path *= "stellaomalley3"i
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B01N1NU871"
@@ -220,7 +219,186 @@ host ^= "podcasts.apple" & path *= "the-matt-walsh-show"i
 host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
 host *= "spotify"i & path *= "1LeIhhawEPWj4uVLQV8Lkd"
 host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
-host *= "tumblr" & path *= "4thwavenow"i
+host *= "tumblr"i & path *= "10reallybigants"i
+host *= "tumblr"i & path *= "1-888-narcolepsy"i
+host *= "tumblr"i & path *= "4thwavenow"i
+host *= "tumblr"i & path *= "acidbathcat"i
+host *= "tumblr"i & path *= "adult-human-gc-female"i
+host *= "tumblr"i & path *= "ancientdriftwood"i
+host *= "tumblr"i & path *= "angela-anaconda-was-a-lesbian"i
+host *= "tumblr"i & path *= "antigender1"i
+host *= "tumblr"i & path *= "antiporn-activist"i
+host *= "tumblr"i & path *= "antiyourwokehomophobia2"i
+host *= "tumblr"i & path *= "aspiringfalseidol"i
+host *= "tumblr"i & path *= "atmospherings"i
+host *= "tumblr"i & path *= "a-toast-to-womanhood"i
+host *= "tumblr"i & path *= "back-not-broken"i
+host *= "tumblr"i & path *= "belastrenchcoat"i
+host *= "tumblr"i & path *= "blackswallowtailbutterfly"i
+host *= "tumblr"i & path *= "blueipa"i
+host *= "tumblr"i & path *= "bolshefem"i
+host *= "tumblr"i & path *= "buildingmode2fromthesims1"i
+host *= "tumblr"i & path *= "burningtheroots"i
+host *= "tumblr"i & path *= "butchlesbianz"i
+host *= "tumblr"i & path *= "butch-reidentified"i
+host *= "tumblr"i & path *= "capricorn-season"i
+host *= "tumblr"i & path *= "catsthemewsical"i
+host *= "tumblr"i & path *= "chadradfem"i
+host *= "tumblr"i & path *= "cheesyradfem"i
+host *= "tumblr"i & path *= "chocobbunnii"i
+host *= "tumblr"i & path *= "chubbyraccoonman"i
+host *= "tumblr"i & path *= "cisthoughtcrime"i
+host *= "tumblr"i & path *= "cloud-enigma-blog"i
+host *= "tumblr"i & path *= "clytemnestra-was-right"i
+host *= "tumblr"i & path *= "conmigonoeh"i
+host *= "tumblr"i & path *= "coochiequeens"i
+host *= "tumblr"i & path *= "cordycepsfem"i
+host *= "tumblr"i & path *= "cornedbeef101"i
+host *= "tumblr"i & path *= "creatorisawoman"i
+host *= "tumblr"i & path *= "daughterf"i
+host *= "tumblr"i & path *= "demonlizard"i
+host *= "tumblr"i & path *= "destroyerofgender"i
+host *= "tumblr"i & path *= "dyke-chytilova"i
+host *= "tumblr"i & path *= "earwigeater"i
+host *= "tumblr"i & path *= "elfyprincess"i
+host *= "tumblr"i & path *= "ellaacadia"i
+host *= "tumblr"i & path *= "eternal-echoes"i
+host *= "tumblr"i & path *= "etesienne"i
+host *= "tumblr"i & path *= "ex-schizo"i
+host *= "tumblr"i & path *= "faxroux"i
+host *= "tumblr"i & path *= "femailment"i
+host *= "tumblr"i & path *= "female-prince"i
+host *= "tumblr"i & path *= "femgoddess-hecate"i
+host *= "tumblr"i & path *= "feministclassicist"i
+host *= "tumblr"i & path *= "feministfairy"i
+host *= "tumblr"i & path *= "feministhetic"i
+host *= "tumblr"i & path *= "femjerma"i
+host *= "tumblr"i & path *= "femmesandhoney"i
+host *= "tumblr"i & path *= "femmessias2"i
+host *= "tumblr"i & path *= "feral-radfem"i
+host *= "tumblr"i & path *= "filianongrata"i
+host *= "tumblr"i & path *= "finnishrogue"i
+host *= "tumblr"i & path *= "floradfem"i
+host *= "tumblr"i & path *= "frankenawus"i
+host *= "tumblr"i & path *= "freckled-radfem"i
+host *= "tumblr"i & path *= "friendlymathematician"i
+host *= "tumblr"i & path *= "gcdk"i
+host *= "tumblr"i & path *= "genderatheist"i
+host *= "tumblr"i & path *= "gendiebrainrotreceipts"i
+host *= "tumblr"i & path *= "gentlyriseandfall"i
+host *= "tumblr"i & path *= "glitter-soda"i
+host *= "tumblr"i & path *= "goblinous"i
+host *= "tumblr"i & path *= "gougarfem"i
+host *= "tumblr"i & path *= "goyangii"i
+host *= "tumblr"i & path *= "gruncheon"i
+host *= "tumblr"i & path *= "gynoids-over-androids"i
+host *= "tumblr"i & path *= "hard–headed–woman"i
+host *= "tumblr"i & path *= "hidetothink"i
+host *= "tumblr"i & path *= "iceyrukia"i
+host *= "tumblr"i & path *= "i-eat-boiled-eggs-for-breakfast"i
+host *= "tumblr"i & path *= "if-you-see-gay-me"i
+host *= "tumblr"i & path *= "ilistened2transwomen"i
+host *= "tumblr"i & path *= "impawsterette"i
+host *= "tumblr"i & path *= "irisintel"i
+host *= "tumblr"i & path *= "irresponsiblebirdowner"i
+host *= "tumblr"i & path *= "julzlex28"i
+host *= "tumblr"i & path *= "kafkaesqueneet"i
+host *= "tumblr"i & path *= "kaleiddie"i
+host *= "tumblr"i & path *= "kittens2000"i
+host *= "tumblr"i & path *= "kronkk"i
+host *= "tumblr"i & path *= "kurwaii"i
+host *= "tumblr"i & path *= "kweerphobique"i
+host *= "tumblr"i & path *= "large-gamete-maker"i
+host *= "tumblr"i & path *= "latina-and-rad"i
+host *= "tumblr"i & path *= "lavendeerlesbian"i
+host *= "tumblr"i & path *= "lavendertruffles"i
+host *= "tumblr"i & path *= "lethalyellowallele"i
+host *= "tumblr"i & path *= "libertarian-princess"i
+host *= "tumblr"i & path *= "lilleisak"i
+host *= "tumblr"i & path *= "lizaganderson"i
+host *= "tumblr"i & path *= "localbisaster"i
+host *= "tumblr"i & path *= "lookupmedicalmisogyny"i
+host *= "tumblr"i & path *= "magnetictapedatastorage"i
+host *= "tumblr"i & path *= "makeyourownopinion"i
+host *= "tumblr"i & path *= "mala-santa-radfem"i
+host *= "tumblr"i & path *= "maleswillbemale"i
+host *= "tumblr"i & path *= "meanevilandcruel"i
+host *= "tumblr"i & path *= "meetmebythe1ake"i
+host *= "tumblr"i & path *= "meowfem"i
+host *= "tumblr"i & path *= "mint-fem"i
+host *= "tumblr"i & path *= "misandristdiarist"i
+host *= "tumblr"i & path *= "modernamericanbreakfast"i
+host *= "tumblr"i & path *= "molagrunda"i
+host *= "tumblr"i & path *= "nansheonearth"i
+host *= "tumblr"i & path *= "natures-imperfection"i
+host *= "tumblr"i & path *= "nightdepthss"i
+host *= "tumblr"i & path *= "nobleelfwarrior"i
+host *= "tumblr"i & path *= "noncompliantbi"i
+host *= "tumblr"i & path *= "nonenosome2"i
+host *= "tumblr"i & path *= "old-school-butch"i
+host *= "tumblr"i & path *= "opabiniawillreturn"i
+host *= "tumblr"i & path *= "paperlunamoth"i
+host *= "tumblr"i & path *= "patronsaintofvulvas"i
+host *= "tumblr"i & path *= "powerfem"i
+host *= "tumblr"i & path *= "prettyrad-ical"i
+host *= "tumblr"i & path *= "princessterf"i
+host *= "tumblr"i & path *= "punishthegods"i
+host *= "tumblr"i & path *= "quinntheestallion"i
+host *= "tumblr"i & path *= "raccoonjesus"i
+host *= "tumblr"i & path *= "radafayscage"i
+host *= "tumblr"i & path *= "radbutches"i
+host *= "tumblr"i & path *= "rad-claid-plaid"i
+host *= "tumblr"i & path *= "radfemlands"i
+host *= "tumblr"i & path *= "radfem-rage"i
+host *= "tumblr"i & path *= "rad-fem-r-us"i
+host *= "tumblr"i & path *= "radfemsilv"i
+host *= "tumblr"i & path *= "radfemtiktok"i
+host *= "tumblr"i & path *= "radicalblunt"i
+host *= "tumblr"i & path *= "radicalfembabey"i
+host *= "tumblr"i & path *= "radicalitch"i
+host *= "tumblr"i & path *= "radishpanda"i
+host *= "tumblr"i & path *= "radmista"i
+host *= "tumblr"i & path *= "radradmarivy"i
+host *= "tumblr"i & path *= "radrevoltz"i
+host *= "tumblr"i & path *= "radsplain"i
+host *= "tumblr"i & path *= "raidenfem"i
+host *= "tumblr"i & path *= "realisticflyinglesbian"i
+host *= "tumblr"i & path *= "redheddebeauty"i
+host *= "tumblr"i & path *= "religion-is-a-mental-illness"i
+host *= "tumblr"i & path *= "s34b4ss"i
+host *= "tumblr"i & path *= "scumbhag"i
+host *= "tumblr"i & path *= "scumlafeccia"i
+host *= "tumblr"i & path *= "shes-unforgettable"i
+host *= "tumblr"i & path *= "sirona-ryan"i
+host *= "tumblr"i & path *= "sofuma"i
+host *= "tumblr"i & path *= "son-of-hemera"i
+host *= "tumblr"i & path *= "sowhatnotcreative"i
+host *= "tumblr"i & path *= "spacemonkeyg78"i
+host *= "tumblr"i & path *= "sparklypinktutu1"i
+host *= "tumblr"i & path *= "strozzaprete"i
+host *= "tumblr"i & path *= "sublimeobjectperson"i
+host *= "tumblr"i & path *= "terf-hands"i
+host *= "tumblr"i & path *= "terf-tea"i
+host *= "tumblr"i & path *= "terfytingz"i
+host *= "tumblr"i & path *= "terra-feminarum"i
+host *= "tumblr"i & path *= "thefemalejoker42069"i
+host *= "tumblr"i & path *= "the-land-of-women"i
+host *= "tumblr"i & path *= "the-rad-menace"i
+host *= "tumblr"i & path *= "there-are-4-lights"i
+host *= "tumblr"i & path *= "transmisogynyiscool"i
+host *= "tumblr"i & path *= "transwomenarestillmen"i
+host *= "tumblr"i & path *= "tubularfem"i
+host *= "tumblr"i & path *= "uter-us"i
+host *= "tumblr"i & path *= "victoriassecretagent"i
+host *= "tumblr"i & path *= "vulva-lacking-losers"i
+host *= "tumblr"i & path *= "wawaenjoyer"i
+host *= "tumblr"i & path *= "womantichrist"i
+host *= "tumblr"i & path *= "womenshallrise"i
+host *= "tumblr"i & path *= "womens-suffrage-revival-squad"i
+host *= "tumblr"i & path *= "wordsfromthewick"i
+host *= "tumblr"i & path *= "xrgl"i
+host *= "tumblr"i & path *= "zlatan-dreams"i
+host *= "tumblr"i & path *= "zombierightsadvocate"i
 host *= "youtube"i & path *= "@Genspect"i
 host *= "youtube"i & path *= "libsoftiktok"i
 host *= "youtube"i & path *= "@MattWalsh"i
@@ -238,17 +416,16 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"i
 *://*.x.com/4th_WaveNow*
 *://*.x.com/AbigailShrier*
 *://*.x.com/AbigailShrier*
-*://*.x.com/docstockk*
+*://*.x.com/Docstockk*
 *://*.x.com/genspect*
 *://*.x.com/glinner*
 *://*.x.com/jessesingal*
-*://*.x.com/JK_rowling*
+*://*.x.com/jk_rowling*
 *://*.x.com/libsoftiktok*
-*://*.x.com/MattWalshBlog*
 *://*.x.com/MattWalshBlog*
 *://*.x.com/MumsnetTowers*
 *://*.x.com/project_lesbian*
 *://*.x.com/Quillette*
 *://*.x.com/segm_ebm*
-*://*.x.com/sexmattersorg*
+*://*.x.com/SexMattersOrg*
 *://*.x.com/stellaomalley3*

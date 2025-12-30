@@ -1,1 +1,5 @@
-cat yaml.txt > uBlacklist.txt && echo "# URLS" >> uBlacklist.txt && sort urls.txt >> uBlacklist.txt && echo -e "\n# handles" >> uBlacklist.txt && python3 handles.py handles.ssv | sort >> uBlacklist.txt
+cat yaml.txt > uBlacklist.txt &&
+echo "# URLS" >> uBlacklist.txt &&
+sort urls.txt >> uBlacklist.txt &&
+echo -e "\n# handles" >> uBlacklist.txt &&
+python3 handles.py handles.ssv | sort >> uBlacklist.txt

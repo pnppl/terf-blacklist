@@ -23,7 +23,7 @@ with open(sys.argv[1], newline='\n') as input:
 					print(f'host $= "substack.com"i & path *= "@{handle}"i')
 					print(f'*://{handle}.substack.com/*')
 				if site == 'tu':
-					print(f'host *= "tumblr" & path *= "{handle}"i')
+					print(f'host *= "tumblr"i & path *= "{handle}"i')
 				if site == 'tw':
 					print(f'host $= "twitter.com"i & path *= "{handle}"i')
 					print(f'*://*.x.com/{handle}*')
