@@ -168,7 +168,7 @@ host $= "twitter.com"i & path *= "AbigailShrier"i
 host $= "twitter.com"i & path *= "AbigailShrier"i
 host $= "twitter.com"i & path *= "Docstockk"i
 host $= "twitter.com"i & path *= "genspect"i
-host $= "twitter.com"i & path *= "glinner"i
+host $= "twitter.com"i & path *= "Glinner"i
 host $= "twitter.com"i & path *= "jessesingal"i
 host $= "twitter.com"i & path *= "jk_rowling"i
 host $= "twitter.com"i & path *= "libsoftiktok"i
@@ -180,6 +180,7 @@ host $= "twitter.com"i & path *= "segm_ebm"i
 host $= "twitter.com"i & path *= "SexMattersOrg"i
 host $= "twitter.com"i & path *= "stellaomalley3"i
 host $= "twitter.com"i & path *= "triggerpod"i
+host *= "amazon"i & path *= "author/B017TK8WZS"
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B083KH37J9"
@@ -220,15 +221,19 @@ host *= "instagram"i & path *= "sexmattersorg"i
 host *= "instagram"i & path *= "stellaomalley"i
 host *= "instagram"i & path *= "thefreepress"i
 host *= "instagram"i & path *= "triggerpod"i
+host ^= "podcasts.apple" & path *= "beyond-gender"i
 host ^= "podcasts.apple" & path *= "blocked-and-reported"i
 host ^= "podcasts.apple" & path *= "quillette-podcast"i
+host ^= "podcasts.apple" & path *= "stella-omalley"i
 host ^= "podcasts.apple" & path *= "the-matt-walsh-show"i
+host ^= "podcasts.apple" & path *= "triggernometry"i
 host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
 host *= "spotify"i & path *= "1JH26td5UtmKQWHLv0NCZp"
 host *= "spotify"i & path *= "1LeIhhawEPWj4uVLQV8Lkd"
 host *= "spotify"i & path *= "4vgbwrNPxor56PDfRMPzhE"
 host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
 host *= "tumblr"i & path *= "4thwavenow"i
+host *= "youtube"i & path *= "@beyondgenderpodcast"i
 host *= "youtube"i & path *= "@Genspect"i
 host *= "youtube"i & path *= "libsoftiktok"i
 host *= "youtube"i & path *= "@MattWalsh"i
@@ -251,7 +256,7 @@ path *= "authors/jesse-singal"i
 *://*.x.com/AbigailShrier*
 *://*.x.com/Docstockk*
 *://*.x.com/genspect*
-*://*.x.com/glinner*
+*://*.x.com/Glinner*
 *://*.x.com/jessesingal*
 *://*.x.com/jk_rowling*
 *://*.x.com/libsoftiktok*
