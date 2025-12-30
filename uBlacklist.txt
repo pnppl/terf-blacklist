@@ -249,6 +249,8 @@ path *= "author/abigail-shrier"i
 path *= "author/jesse-singal"i
 path *= "authors/abigail-shrier"i
 path *= "authors/jesse-singal"i
+path *= "authors/stella-omalley"i
+path *= "author/stella-omalley"i
 *://quillette.substack.com/*
 *://stellaomalley.substack.com/*
 *://triggernometry.substack.com/*
