@@ -198,7 +198,6 @@ host *= "facebook"i & path *= "jesse.singal.3"i
 host *= "facebook"i & path *= "JKRowling"i
 host *= "facebook"i & path *= "libsoftiktok"i
 host *= "facebook"i & path *= "MattWalshBlog"i
-host *= "facebook"i & path *= "MattWalshBlog"i
 host *= "facebook"i & path *= "mrmattwalshofficial"i
 host *= "facebook"i & path *= "mumsnet"i
 host *= "facebook"i & path *= "projectlesph"i
