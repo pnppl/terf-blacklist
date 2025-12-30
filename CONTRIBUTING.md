@@ -29,8 +29,10 @@ You can also help block user accounts using a format I devised. This is currentl
 - Then, on each line, write the two-letter abbreviations for each site the account is on, then **paste** the username.
 
 For example, to block JK Rowling on Twitter and Triggernometry on Amazon, Apple Podcasts, and Substack, you would type:
-`am ap su triggernometry  
-tw jk_rowling`
+```
+am ap su triggernometry
+tw jk_rowling
+```
 
 Supported abbreviations are in [handles.py](https://github.com/pnppl/terf-blacklist/blob/master/handles.py). Currently they are:
 - am = Amazon
