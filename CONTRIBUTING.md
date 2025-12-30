@@ -21,7 +21,7 @@ This is the easiest way to contribute. **This is only for sites with approximate
 - Do some searches and click the little block button that pops up next to a bad site.
 - When you're done, go to settings, and choose export.
 
-If you know how to use git, add these to `urls.txt` and submit a pull request. If not, [click here make a new issue and attach the uBlacklist.txt file you exported.](https://github.com/pnppl/terf-blacklist/issues/new/choose)
+If you know how to use git, add these to `urls.txt` and submit a pull request. If not, [click here to make a new issue and attach the uBlacklist.txt file you exported.](https://github.com/pnppl/terf-blacklist/issues/new/choose)
 
 ## Username-based filters
 
@@ -49,7 +49,7 @@ Supported abbreviations are in [handles.py](https://github.com/pnppl/terf-blackl
 - tw = Twitter/X
 - yt = Youtube
 
-If you know how to use git, add these to `handles.ssv` and submit a pull request. If not, put them in a new text file, then [click here make a new issue and attach it.](https://github.com/pnppl/terf-blacklist/issues/new/choose)
+If you know how to use git, add these to `handles.ssv` and submit a pull request. If not, put them in a new text file, then [click here to make a new issue and attach it.](https://github.com/pnppl/terf-blacklist/issues/new/choose)
 
 ## Specific URLs
 
@@ -57,7 +57,7 @@ To block a specific web page, for example an anti-trans YouTube video or news ar
 
 If you understand the uBlacklist syntax, add wildcards as appropriate. If not, don't worry about it.
 
-If you know how to use git, add these to `urls.txt` and submit a pull request. If not, put them in a new text file, then [click here make a new issue and attach it.](https://github.com/pnppl/terf-blacklist/issues/new/choose)
+If you know how to use git, add these to `urls.txt` and submit a pull request. If not, put them in a new text file, then [click here to make a new issue and attach it.](https://github.com/pnppl/terf-blacklist/issues/new/choose)
 
 # Advanced contributions
 
