@@ -182,6 +182,7 @@ host $= "twitter.com"i & path *= "stellaomalley3"i
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B083KH37J9"
+host *= "amazon"i & path *= "author/B08DXW3PLB"
 host *= "amazon"i & path *= "blocked-and-reported"
 host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
 host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
@@ -235,6 +236,7 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"i
 *://jessesingal.substack.com/*
 *://kathleenstock.substack.com/*
 *://ovarit.substack.com/*
+path *= "author/jesse-singal"i
 *://quillette.substack.com/*
 *://stellaomalley.substack.com/*
 *://triggernometry.substack.com/*

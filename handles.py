@@ -29,3 +29,6 @@ with open(sys.argv[1], newline='\n') as input:
 					print(f'*://*.x.com/{handle}*')
 				if site == 'yt':
 					print(f'host *= "youtube"i & path *= "{handle}"i')
+#				several mediocre news orgs use the same url pattern for author pages. we really want to block the *articles*, but anyway
+				if site == 'news':
+					print(f'path *= "author/{handle}"i')
