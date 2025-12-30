@@ -1,3 +1,9 @@
+---
+name: terf-blacklist
+description: uBlacklist rules to remove anti-trans search results
+homepage: https://github.com/pnppl/terf-blacklist/
+---
+
 *://*.4thwavenow.com/*
 *://4thwavenow.wordpress.com/*
 *://*.abigailshrier.com/*
