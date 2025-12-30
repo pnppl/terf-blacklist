@@ -8,12 +8,14 @@ This is a filter list for the fantastic [uBlacklist](https://ublacklist.github.i
 
 # About
 
-I'm trying to remove anti-trans garbage from my search results.
+I'm trying to reduce the anti-trans garbage in my search results.
 
-I don't want to go full nuke, which means I will not be including, for example, transphobic news organizations like NYT, or the entirety of Xitter, since these are sites that might also rarely contain useful content. However, right-wing propaganda "news" sites like Quillette with zero redeeming qualities are fair game, as are individual articles and user accounts, like JKR.
+I don't want to go full nuke and block sites that might also rarely contain useful content, like mainstream news and social media. However, right-wing propaganda sites with zero redeeming qualities are fair game, as are individual articles and user accounts.
 
-I don't filter titles or transphobic phrases, since I still want to get results from people using them in the course of covering or criticizing the anti-trans movement. Unfortunately, this means that I can't filter out, eg, every YouTube video posted by an anti-trans organization. To some extent this is ameliorated by my liberal use of wildcards.
+I don't filter titles or transphobic phrases, since I still want to get results from people using them in the course of covering or criticizing the anti-trans movement. Unfortunately, this means that I can't filter out, eg, every YouTube video posted by a transphobe.
 
-Obviously, there are edge cases. There is a lot of transphobia in the world, most of it casual. When in doubt, the main condition is whether it's shitting up my search results. The goal is to make me less hesitant to even bother searching trans-related topics knowing the flood of garbage I'll be inviting, and hopefully, provide that to other people in the process.
+Obviously, it's subjective, and there are edge cases. There is a lot of transphobia in the world, most of it casual. When in doubt, I'll ask myself whether it's shitting up my search results.
 
 **You can help!** See [CONTRIBUTING.md](https://github.com/pnppl/terf-blacklist/blob/master/CONTRIBUTING.md) for more info.
+
+Note: "terf" is just a convenient shorthand; this is not limited to one particular brand of transphobe.
