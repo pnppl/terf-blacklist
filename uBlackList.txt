@@ -1,0 +1,225 @@
+*://*.4thwavenow.com/*
+*://4thwavenow.wordpress.com/*
+*://*.abigailshrier.com/*
+*://abigailshrier.substack.com/*
+*://*.acpeds.org/*
+*://*.adfinternational.org/*
+*://*.adflegal.org/*
+*://*.afaaction.net/*
+*://*.afa.net/*
+*://*.afterellen.com/*
+*://*.albertmohler.com/*
+*://*.alysonmcgregormd.com/*
+*://*.americanprinciplesproject.org/*
+*://*.anxiousgeneration.com/*
+*://*.battleofideas.org.uk/*
+*://*.beyondtrans.org/*
+*://*.blockedandreported.org/*
+*://blockedandreported.substack.com/*
+*://*.broadview.news/*
+*://*.californiafamily.org/*
+*://*.care.org.uk/*
+*://*.cathmed.org/*
+*://*.catholicmedicalassociation.org.uk/*
+*://*.cbhd.org/*
+*://*.ccv.org/*
+*://*.c-fam.org/*
+*://*.chalcedon.edu/*
+*://*.cmacbus.com/*
+*://*.cmacincy.org/*
+*://*.dailycaller.com/*
+*://*.dailywire.com/*
+*://*.delawarefamilies.org/*
+*://*.edramatica.com/*
+*://*.factennessee.org/*
+*://*.familycouncil.org/*
+*://*.familypolicyalliance.com/*
+*://*.familypolicynyc.org/*
+*://*.familypolicywv.org/*
+*://*.familywatch.org/*
+*://*.fedsoc.org/*
+*://*.feministwiki.org/*
+*://*.filia.org.uk/*
+*://*.flfamily.org/*
+*://*.focusonthefamily.com/*
+*://*.focusonthefamily.org/*
+*://*.foxnews.com/*
+*://*.fpiw.org/*
+*://*.frcaction.org/*
+*://*.frc.org/*
+*://*.fs.blog/*
+*://*.gab.com/*
+*://*.gaysagainstgroomers.com/*
+*://*.genderclinicnews.com/*
+*://*.gendercriticalwoman.blog/*
+*://*.genderreport.ca/*
+*://*.genspect.org/*
+*://genspect.substack.com/*
+*://*.godhatesfags.com/*
+*://grahamlinehan.substack.com/*
+*://*.grokipedia.com/*
+*://*.happinesshypothesis.com/*
+*://*.harrypotter.com/*
+*://*.heritage.org/*
+*://*.hollylawford-smith.org/*
+host $= "medium.com" & path *= "jesse.singal"
+host $= "substack.com"i & path *= "@abigailshrier"i
+host $= "substack.com"i & path *= "@blockedandreported"i
+host $= "substack.com"i & path *= "@genspect"i
+host $= "substack.com"i & path *= "@grahamlinehan"i
+host $= "substack.com"i & path *= "@jessesingal"i
+host $= "substack.com"i & path *= "@kathleenstock"i
+host $= "substack.com"i & path *= "@ovarit"i
+host $= "substack.com"i & path *= "@quillette"i
+host $= "substack.com"i & path *= "@stellaomalley"i
+host $= "substack.com"i & path *= "@triggernometry"i
+host $= "twitter.com"i & path *= "4th_WaveNow"i
+host $= "twitter.com"i & path *= "AbigailShrier"i
+host $= "twitter.com"i & path *= "docstockk"i
+host $= "twitter.com"i & path *= "genspect"i
+host $= "twitter.com"i & path *= "glinner"i
+host $= "twitter.com"i & path *= "jessesingal"i
+host $= "twitter.com"i & path *= "JK_rowling"i
+host $= "twitter.com"i & path *= "libsoftiktok"i
+host $= "twitter.com"i & path *= "MumsnetTowers"i
+host $= "twitter.com"i & path *= "project_lesbian"i
+host $= "twitter.com"i & path *= "Quillette"i
+host $= "twitter.com"i & path *= "segm_ebm"i
+host $= "twitter.com"i & path *= "sexmattersorg"i
+host $= "twitter.com"i & path *= "stellaomalley3"i
+host $= "x.com"i & path *= "4th_WaveNow"i
+host $= "x.com"i & path *= "AbigailShrier"i
+host $= "x.com"i & path *= "docstockk"i
+host $= "x.com"i & path *= "genspect"i
+host $= "x.com"i & path *= "glinner"i
+host $= "x.com"i & path *= "jessesingal"i
+host $= "x.com"i & path *= "JK_rowling"i
+host $= "x.com"i & path *= "libsoftiktok"i
+host $= "x.com"i & path *= "MumsnetTowers"i
+host $= "x.com"i & path *= "project_lesbian"i
+host $= "x.com"i & path *= "Quillette"i
+host $= "x.com"i & path *= "segm_ebm"i
+host $= "x.com"i & path *= "sexmattersorg"i
+host $= "x.com"i & path *= "stellaomalley3"i
+host *= "amazon" & path *= "author/B083KH37J9"
+host *= "amazon" & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
+host *= "amazon" & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
+host *= "dailymotion"i & path *= "4thwavenow"i
+host *= "dailymotion"i & path *= "Mumsnet"i
+host *= "facebook"i & path *= "freethoughtlives"i
+host *= "facebook"i & path *= "Genspect"i
+host *= "facebook"i & path *= "jesse.singal.3"i
+host *= "facebook"i & path *= "JKRowling"i
+host *= "facebook"i & path *= "libsoftiktok"i
+host *= "facebook"i & path *= "mumsnet"i
+host *= "facebook"i & path *= "projectlesph"i
+host *= "facebook"i & path *= "sexmattersorg"i
+host *= "facebook"i & path *= "stellaomalley"i
+host *= "instagram"i & path *= "amcgregormd"i
+host *= "instagram"i & path *= "genspectinternational"i
+host *= "instagram"i & path *= "glinner"i
+host *= "instagram"i & path *= "jesse.singal"i
+host *= "instagram"i & path *= "jkrowlingweb"i
+host *= "instagram"i & path *= "libsoftiktok"i
+host *= "instagram"i & path *= "mumsnet"i
+host *= "instagram"i & path *= "quillette"i
+host *= "instagram"i & path *= "reduxx.mag"i
+host *= "instagram"i & path *= "sexmattersorg"i
+host *= "instagram"i & path *= "stellaomalley"i
+host *= "instagram"i & path *= "thefreepress"i
+host *= "kiwifarms"i
+host *= "lolcow"i
+host ^= "podcasts.apple" & path *= "quillette-podcast"i
+host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
+host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
+host *= "tumblr"i & path *= "4thwavenow"i
+host *= "youtube"i & path *= "@Genspect"i
+host *= "youtube"i & path *= "libsoftiktok"i
+host *= "youtube"i & path *= "mumsnet"i
+host *= "youtube"i & path *= "@Quillette"i
+host *= "youtube"i & path *= "@segm_ebm"i
+host *= "youtube"i & path *= "@sexmattersorg"i
+host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
+*://*.independentwomen.com/*
+*://*.iwvoice.com/*
+*://*.jessesingal.com/*
+*://jessesingal.substack.com/*
+*://*.jkrowling.com/*
+*://*.jonathanhaidt.com/*
+*://kathleenstock.substack.com/*
+*://*.lc.org/*
+*://*.lgballiance.org.uk/*
+*://*.lgbausa.org/*
+*://*.lgbinternational.org/*
+*://*.libsoftiktok.com/*
+*://*.lifesitenews.com/*
+*://*.lipstickalley.com/*
+*://*.lisamarchiano.com/*
+*://*.lisamarchianotherapy.com/*
+*://*.manhattan.institute/*
+*://*.massresistance.org/*
+*://*.mfc.org/*
+*://*.mirandayardley.com/*
+*://*.missourifamily.org/*
+*://*.mofamily.org/*
+*://*.momsforliberty.org/*
+*://*.mumsnet.com/*
+*://*.ncfamily.org/*
+*://*.njfpc.org/*
+*://*.ohiocathconf.org/*
+*://*.opentherapyinstitute.org/*
+*://*.ovarit.com/*
+*://ovarit.substack.com/*
+*://*.pafamily.org/*
+*://*.parler.com/*
+*://*.peaktrans.org/*
+*://*.podchaser.com/podcasts/quillette-podcast-753680
+*://*.prageru.com/*
+*://*.quillette.com/*
+*://quillette.substack.com/*
+*://*.rdrama.net/*
+*://*.reddit.com/r/ask_detransition/*
+*://*.reddit.com/r/BlockedAndReported/*
+*://*.reddit.com/r/detrans/*
+*://*.reddit.com/r/fourthwavewomen/*
+*://*.reddit.com/r/KotakuInAction/*
+*://*.reduxx.info/*
+*://*.robert-galbraith.com/*
+*://*.saidit.app/*
+*://*.saidit.net/*
+*://*.saidit.org/*
+*://*.sashaayad.com/*
+*://*.segm.org/*
+*://*.sexchangeregret.com/*
+*://*.sex-matters.org/*
+*://*.sheila-jeffreys.com/*
+*://*.stellaomalley.com/*
+*://stellaomalley.substack.com/*
+*://*.takimag.com/*
+*://*.terfisaslur.com/*
+*://*.thecoddling.com/*
+*://*.thefederalist.com/*
+*://*.thefire.org/*
+*://*.thefp.com/*
+*://*.thelesbianproject.co.uk/*
+*://*.thelesbianprojectpod.com/*
+*://*.therapyfirst.org/*
+*://*.therowlinglibrary.com/*
+*://*.theturningpointtour.com/*
+*://*.thomasmoresociety.org/*
+*://*.thomasmoresociety.org.uk/*
+*://*.tpusa.com/*
+*://*.transgendertrend.com/*
+*://*.trans.so/*
+*://triggernometry.substack.com/*
+*://*.triggerpod.co.uk/*
+*://*.truthsocial.com/*
+*://*.unherd.com/*
+*://*.whenkidssaytheyretrans.com/*
+*://*.widerlens.consulting/*
+*://*.widerlenspod.com/*
+*://*.wifamilycouncil.org/*
+*://*.womensdeclaration.com/*
+*://*.womensdeclarationusa.com/*
+*://*.womensliberationfront.org/*
+*://*.youthtranscriticalprofessionals.org/*
