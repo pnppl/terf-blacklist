@@ -179,6 +179,7 @@ host $= "twitter.com"i & path *= "Quillette"i
 host $= "twitter.com"i & path *= "segm_ebm"i
 host $= "twitter.com"i & path *= "SexMattersOrg"i
 host $= "twitter.com"i & path *= "stellaomalley3"i
+host $= "twitter.com"i & path *= "triggerpod"i
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B083KH37J9"
@@ -186,6 +187,7 @@ host *= "amazon"i & path *= "author/B08DXW3PLB"
 host *= "amazon"i & path *= "blocked-and-reported"
 host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
 host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
+host *= "amazon"i & path *= "triggernometry"
 host *= "dailymotion"i & path *= "4thwavenow"i
 host *= "dailymotion"i & path *= "Mumsnet"i
 host *= "facebook"i & path *= "freethoughtlives"i
@@ -217,10 +219,12 @@ host *= "instagram"i & path *= "reduxx.mag"i
 host *= "instagram"i & path *= "sexmattersorg"i
 host *= "instagram"i & path *= "stellaomalley"i
 host *= "instagram"i & path *= "thefreepress"i
+host *= "instagram"i & path *= "triggerpod"i
 host ^= "podcasts.apple" & path *= "blocked-and-reported"i
 host ^= "podcasts.apple" & path *= "quillette-podcast"i
 host ^= "podcasts.apple" & path *= "the-matt-walsh-show"i
 host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
+host *= "spotify"i & path *= "1JH26td5UtmKQWHLv0NCZp"
 host *= "spotify"i & path *= "1LeIhhawEPWj4uVLQV8Lkd"
 host *= "spotify"i & path *= "4vgbwrNPxor56PDfRMPzhE"
 host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
@@ -232,11 +236,13 @@ host *= "youtube"i & path *= "mumsnet"i
 host *= "youtube"i & path *= "@Quillette"i
 host *= "youtube"i & path *= "@segm_ebm"i
 host *= "youtube"i & path *= "@sexmattersorg"i
+host *= "youtube"i & path *= "@triggerpod"i
 host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"i
 *://jessesingal.substack.com/*
 *://kathleenstock.substack.com/*
 *://ovarit.substack.com/*
 path *= "author/jesse-singal"i
+path *= "authors/jesse-singal"i
 *://quillette.substack.com/*
 *://stellaomalley.substack.com/*
 *://triggernometry.substack.com/*
@@ -256,6 +262,7 @@ path *= "author/jesse-singal"i
 *://*.x.com/segm_ebm*
 *://*.x.com/SexMattersOrg*
 *://*.x.com/stellaomalley3*
+*://*.x.com/triggerpod*
 
 # third party
 host *= "tumblr"i & path *= "10reallybigants"i
