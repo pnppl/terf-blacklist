@@ -107,9 +107,9 @@ host $= "x.com"i & path *= "Quillette"i
 host $= "x.com"i & path *= "segm_ebm"i
 host $= "x.com"i & path *= "sexmattersorg"i
 host $= "x.com"i & path *= "stellaomalley3"i
-host *= "amazon" & path *= "author/B083KH37J9"
-host *= "amazon" & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
-host *= "amazon" & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
+host *= "amazon"i & path *= "author/B083KH37J9"
+host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
+host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
 host *= "dailymotion"i & path *= "4thwavenow"i
 host *= "dailymotion"i & path *= "Mumsnet"i
 host *= "facebook"i & path *= "freethoughtlives"i
