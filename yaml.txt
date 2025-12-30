@@ -1,0 +1,7 @@
+---
+name: terf-blacklist
+description: uBlacklist rules to remove anti-trans search results
+homepage: https://github.com/pnppl/terf-blacklist/
+---
+
+

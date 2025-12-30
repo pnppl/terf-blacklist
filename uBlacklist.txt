@@ -87,26 +87,14 @@ host $= "twitter.com"i & path *= "glinner"i
 host $= "twitter.com"i & path *= "jessesingal"i
 host $= "twitter.com"i & path *= "JK_rowling"i
 host $= "twitter.com"i & path *= "libsoftiktok"i
+host $= "twitter.com"i & path *= "MattWalshBlog"i
 host $= "twitter.com"i & path *= "MumsnetTowers"i
 host $= "twitter.com"i & path *= "project_lesbian"i
 host $= "twitter.com"i & path *= "Quillette"i
 host $= "twitter.com"i & path *= "segm_ebm"i
 host $= "twitter.com"i & path *= "sexmattersorg"i
 host $= "twitter.com"i & path *= "stellaomalley3"i
-*://*.x.com/4th_WaveNow*
-*://*.x.com/AbigailShrier*
-*://*.x.com/Docstockk*
-*://*.x.com/genspect*
-*://*.x.com/glinner*
-*://*.x.com/jessesingal*
-*://*.x.com/jk_rowling*
-*://*.x.com/libsoftiktok*
-*://*.x.com/MumsnetTowers*
-*://*.x.com/project_lesbian*
-*://*.x.com/Quillette*
-*://*.x.com/segm_ebm*
-*://*.x.com/SexMattersOrg*
-*://*.x.com/stellaomalley3*
+host *= "amazon"i & path *= "author/B01N1NU871"
 host *= "amazon"i & path *= "author/B083KH37J9"
 host *= "amazon"i & path *= "Gender-Critical-Feminism-Holly-Lawford-Smith"
 host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
@@ -117,6 +105,8 @@ host *= "facebook"i & path *= "Genspect"i
 host *= "facebook"i & path *= "jesse.singal.3"i
 host *= "facebook"i & path *= "JKRowling"i
 host *= "facebook"i & path *= "libsoftiktok"i
+host *= "facebook"i & path *= "MattWalshBlog"i
+host *= "facebook"i & path *= "mrmattwalshofficial"i
 host *= "facebook"i & path *= "mumsnet"i
 host *= "facebook"i & path *= "projectlesph"i
 host *= "facebook"i & path *= "sexmattersorg"i
@@ -127,6 +117,8 @@ host *= "instagram"i & path *= "glinner"i
 host *= "instagram"i & path *= "jesse.singal"i
 host *= "instagram"i & path *= "jkrowlingweb"i
 host *= "instagram"i & path *= "libsoftiktok"i
+host *= "instagram"i & path *= "mattwalshblog"i
+host *= "instagram"i & path *= "mrmattwalsh"i
 host *= "instagram"i & path *= "mumsnet"i
 host *= "instagram"i & path *= "quillette"i
 host *= "instagram"i & path *= "reduxx.mag"i
@@ -136,11 +128,13 @@ host *= "instagram"i & path *= "thefreepress"i
 host *= "kiwifarms"i
 host *= "lolcow"i
 host ^= "podcasts.apple"i & path *= "quillette-podcast"i
+host ^= "podcasts.apple" & path *= "the-matt-walsh-show"i
 host *= "spotify"i & path *= "0eUg2OckPTqiVUn3ibULjl"
 host *= "spotify"i & path *= "5OexgXX1vghj0rizOSvVeR"
 host *= "tumblr"i & path *= "4thwavenow"i
 host *= "youtube"i & path *= "@Genspect"i
 host *= "youtube"i & path *= "libsoftiktok"i
+host *= "youtube"i & path *= "@MattWalsh"i
 host *= "youtube"i & path *= "mumsnet"i
 host *= "youtube"i & path *= "@Quillette"i
 host *= "youtube"i & path *= "@segm_ebm"i
@@ -209,6 +203,7 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
 *://*.thefp.com/*
 *://*.thelesbianproject.co.uk/*
 *://*.thelesbianprojectpod.com/*
+*://*.themattwalshblog.com/*
 *://*.therapyfirst.org/*
 *://*.therowlinglibrary.com/*
 *://*.theturningpointtour.com/*
@@ -228,4 +223,19 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"
 *://*.womensdeclaration.com/*
 *://*.womensdeclarationusa.com/*
 *://*.womensliberationfront.org/*
+*://*.x.com/4th_WaveNow*
+*://*.x.com/AbigailShrier*
+*://*.x.com/Docstockk*
+*://*.x.com/genspect*
+*://*.x.com/glinner*
+*://*.x.com/jessesingal*
+*://*.x.com/jk_rowling*
+*://*.x.com/libsoftiktok*
+*://*.x.com/MattWalshBlog*
+*://*.x.com/MumsnetTowers*
+*://*.x.com/project_lesbian*
+*://*.x.com/Quillette*
+*://*.x.com/segm_ebm*
+*://*.x.com/SexMattersOrg*
+*://*.x.com/stellaomalley3*
 *://*.youthtranscriticalprofessionals.org/*
