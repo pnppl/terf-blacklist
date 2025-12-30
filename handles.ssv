@@ -1,6 +1,4 @@
 # these should be reorganized
-su abigailshrier
-tw AbigailShrier
 
 su genspect
 su grahamlinehan
@@ -9,7 +7,6 @@ su ovarit
 su quillette
 
 tw 4th_WaveNow
-tw AbigailShrier
 tw Docstockk
 tw genspect
 tw Glinner
@@ -34,7 +31,6 @@ fb Genspect
 fb JKRowling
 fb libsoftiktok
 fb MattWalshBlog
-fb mrmattwalshofficial
 fb mumsnet
 fb projectlesph
 fb sexmattersorg
@@ -44,8 +40,6 @@ in genspectinternational
 in glinner
 in jkrowlingweb
 in libsoftiktok
-in mattwalshblog
-in mrmattwalsh
 in mumsnet
 in quillette
 in reduxx.mag
@@ -66,6 +60,10 @@ yt @segm_ebm
 yt @sexmattersorg
 yt UCWECmp5Tk3epYSkjs0qAKKQ
 # end reorg
+
+su in abigailshrier
+tw AbigailShrier
+ap news abigail-shrier
 
 in mrmattwalsh
 fb tw MattWalshBlog

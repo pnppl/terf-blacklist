@@ -6,6 +6,7 @@ homepage: https://github.com/pnppl/terf-blacklist/
 
 
 # URLS
+
 *://*.4thwavenow.com/*
 *://4thwavenow.wordpress.com/*
 *://*.abigailshrier.com/*
@@ -100,6 +101,7 @@ host *= "lolcow"i
 *://*.peaktrans.org/*
 *://*.podchaser.com/podcasts/quillette-podcast-753680
 *://*.prageru.com/*
+*://*.praxiscircle.com/*
 *://*.quillette.com/*
 *://*.rdrama.net/*
 *://*.reddit.com/r/ask_detransition/*
@@ -165,7 +167,6 @@ host $= "substack.com"i & path *= "@stellaomalley"i
 host $= "substack.com"i & path *= "@triggernometry"i
 host $= "twitter.com"i & path *= "4th_WaveNow"i
 host $= "twitter.com"i & path *= "AbigailShrier"i
-host $= "twitter.com"i & path *= "AbigailShrier"i
 host $= "twitter.com"i & path *= "Docstockk"i
 host $= "twitter.com"i & path *= "genspect"i
 host $= "twitter.com"i & path *= "Glinner"i
@@ -199,11 +200,11 @@ host *= "facebook"i & path *= "libsoftiktok"i
 host *= "facebook"i & path *= "MattWalshBlog"i
 host *= "facebook"i & path *= "MattWalshBlog"i
 host *= "facebook"i & path *= "mrmattwalshofficial"i
-host *= "facebook"i & path *= "mrmattwalshofficial"i
 host *= "facebook"i & path *= "mumsnet"i
 host *= "facebook"i & path *= "projectlesph"i
 host *= "facebook"i & path *= "sexmattersorg"i
 host *= "facebook"i & path *= "stellaomalley"i
+host *= "instagram"i & path *= "abigailshrier"i
 host *= "instagram"i & path *= "amcgregormd"i
 host *= "instagram"i & path *= "genspectinternational"i
 host *= "instagram"i & path *= "glinner"i
@@ -211,8 +212,6 @@ host *= "instagram"i & path *= "jesse.singal"i
 host *= "instagram"i & path *= "jkrowlingweb"i
 host *= "instagram"i & path *= "libsoftiktok"i
 host *= "instagram"i & path *= "mattwalshblog"i
-host *= "instagram"i & path *= "mattwalshblog"i
-host *= "instagram"i & path *= "mrmattwalsh"i
 host *= "instagram"i & path *= "mrmattwalsh"i
 host *= "instagram"i & path *= "mumsnet"i
 host *= "instagram"i & path *= "quillette"i
@@ -221,6 +220,7 @@ host *= "instagram"i & path *= "sexmattersorg"i
 host *= "instagram"i & path *= "stellaomalley"i
 host *= "instagram"i & path *= "thefreepress"i
 host *= "instagram"i & path *= "triggerpod"i
+host ^= "podcasts.apple" & path *= "abigail-shrier"i
 host ^= "podcasts.apple" & path *= "beyond-gender"i
 host ^= "podcasts.apple" & path *= "blocked-and-reported"i
 host ^= "podcasts.apple" & path *= "quillette-podcast"i
@@ -246,13 +246,14 @@ host *= "youtube"i & path *= "UCWECmp5Tk3epYSkjs0qAKKQ"i
 *://jessesingal.substack.com/*
 *://kathleenstock.substack.com/*
 *://ovarit.substack.com/*
+path *= "author/abigail-shrier"i
 path *= "author/jesse-singal"i
+path *= "authors/abigail-shrier"i
 path *= "authors/jesse-singal"i
 *://quillette.substack.com/*
 *://stellaomalley.substack.com/*
 *://triggernometry.substack.com/*
 *://*.x.com/4th_WaveNow*
-*://*.x.com/AbigailShrier*
 *://*.x.com/AbigailShrier*
 *://*.x.com/Docstockk*
 *://*.x.com/genspect*

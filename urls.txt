@@ -136,5 +136,8 @@
 *://*.womensdeclarationusa.com/*
 *://*.womensliberationfront.org/*
 *://*.youthtranscriticalprofessionals.org/*
+
 host *= "kiwifarms"i
 host *= "lolcow"i
+
+*://*.praxiscircle.com/*
