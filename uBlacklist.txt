@@ -102,6 +102,7 @@ host *= "lolcow"i
 *://*.podchaser.com/podcasts/quillette-podcast-753680
 *://*.prageru.com/*
 *://*.praxiscircle.com/*
+*://*.professorwatchlist.org/*
 *://*.quillette.com/*
 *://*.rdrama.net/*
 *://*.reddit.com/r/ask_detransition/*
