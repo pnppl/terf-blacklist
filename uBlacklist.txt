@@ -152,11 +152,13 @@ host *= "lolcow"i
 
 # handles
 *://abigailshrier.substack.com/*
+*://benryan.substack.com/*
 *://blockedandreported.substack.com/*
 *://genspect.substack.com/*
 *://grahamlinehan.substack.com/*
 host $= "medium.com"i & path *= "@jesse.singal"i
 host $= "substack.com"i & path *= "@abigailshrier"i
+host $= "substack.com"i & path *= "@benryan"i
 host $= "substack.com"i & path *= "@blockedandreported"i
 host $= "substack.com"i & path *= "@genspect"i
 host $= "substack.com"i & path *= "@grahamlinehan"i
@@ -168,6 +170,7 @@ host $= "substack.com"i & path *= "@stellaomalley"i
 host $= "substack.com"i & path *= "@triggernometry"i
 host $= "twitter.com"i & path *= "4th_WaveNow"i
 host $= "twitter.com"i & path *= "AbigailShrier"i
+host $= "twitter.com"i & path *= "benryanwriter"i
 host $= "twitter.com"i & path *= "Docstockk"i
 host $= "twitter.com"i & path *= "genspect"i
 host $= "twitter.com"i & path *= "Glinner"i
@@ -193,6 +196,7 @@ host *= "amazon"i & path *= "Sex-Matters-Male-Centric-Medicine-Endangers"
 host *= "amazon"i & path *= "triggernometry"
 host *= "dailymotion"i & path *= "4thwavenow"i
 host *= "dailymotion"i & path *= "Mumsnet"i
+host *= "facebook"i & path *= "benryanwriter"i
 host *= "facebook"i & path *= "freethoughtlives"i
 host *= "facebook"i & path *= "Genspect"i
 host *= "facebook"i & path *= "jesse.singal.3"i
@@ -206,6 +210,7 @@ host *= "facebook"i & path *= "sexmattersorg"i
 host *= "facebook"i & path *= "stellaomalley"i
 host *= "instagram"i & path *= "abigailshrier"i
 host *= "instagram"i & path *= "amcgregormd"i
+host *= "instagram"i & path *= "benryanwriter"i
 host *= "instagram"i & path *= "genspectinternational"i
 host *= "instagram"i & path *= "glinner"i
 host *= "instagram"i & path *= "jesse.singal"i
@@ -257,6 +262,7 @@ path *= "author/stella-omalley"i
 *://triggernometry.substack.com/*
 *://*.x.com/4th_WaveNow*
 *://*.x.com/AbigailShrier*
+*://*.x.com/benryanwriter*
 *://*.x.com/Docstockk*
 *://*.x.com/genspect*
 *://*.x.com/Glinner*
