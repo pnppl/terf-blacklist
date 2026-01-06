@@ -141,3 +141,4 @@ host *= "kiwifarms"i
 host *= "lolcow"i
 
 *://*.praxiscircle.com/*
+*://*.professorwatchlist.org/*
